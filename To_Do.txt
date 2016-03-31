@@ -1,0 +1,3 @@
+Change the most components possible from thru hole to surface mount. 
+Change USB type B used for power and programming to a Micro-B USB port.
+Use a 3.3V SMD regulator instead. 
